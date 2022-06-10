@@ -40,3 +40,6 @@ max-width: 200px;
         .tip-info:nth-of-type(even){
         background: #e0e0e0;
         }
+html{
+    background-color: rgb(250, 230, 204);
+}
